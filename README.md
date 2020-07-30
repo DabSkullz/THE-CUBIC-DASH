@@ -1,5 +1,5 @@
 # THE-CUBIC-DASH v1.2
-## v1.2:
+### v1.2:
 
 * Added Slow Motion key="SPACE"
 * Fixed Bugs     
