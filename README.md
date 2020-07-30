@@ -1,4 +1,10 @@
 # THE-CUBIC-DASH v1.2
+### v1.2:
+
+* Bullet list Added Slow Motion key="SPACE"
+* Bullet list Fixed Bugs     
+
+
 
 Creator: Arnav Mehta aka DabSkullz
 
